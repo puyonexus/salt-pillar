@@ -100,6 +100,10 @@ mediawiki:
     - Renameuser
     - Math
     - SyntaxHighlight_GeSHi
+    - SpamBlacklist
+    - CheckUser
+    - Moderation
+    - AbuseFilter
   skins:
     - VectorNexus
     - MonoBook
