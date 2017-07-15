@@ -3,6 +3,35 @@
 site:
   root: https://puyonexus.com
 
+sentry:
+  php:
+    dsn: |
+      -----BEGIN PGP MESSAGE-----
+      Version: GnuPG v2
+
+      hQMOAxyU6Yz/fzv8EAwAiz/ufLG7U/epCDyZWZLLXD4hiAxjp5jmlcC7mhaijhUm
+      nNN4P445Q80RxaaU0UA3Ov7pTqO/QefrJ8m74Sft6cc90oa9x5zLRdU6TdkGOw32
+      rgTPIWJpziRAXjh4E/youkOOFDjiohYh/4ZIIXcKfCx/QlCvP0RGqvHYizaoMpRa
+      G39AwJA7Y4OF8debCCChge+sZKZnCKppEUMv+ngxvyaNVB5Zzc2FlomXaoJGadMz
+      VKzsJpE7XwoAkWhs3CSzK08ERZWPV8bTyHj79HrcAZSpth1k5FpqVqDB+2HFfubP
+      UGUBsCRZvUbWxoF/P5+Je1HXCSCl42uqBhAX/ohhDwkxyu5Kj14DK+OGdlj2hSup
+      +YXf9FPbxqq3nA5zPVqRb1kPCHN/QIrTC37pqULzFwqt231hJLtyk1ulJ6oxOwdo
+      r4ahNfc8JnLYctBuwNRc7jbSrxyIeGXdi/LsT8sLilqHLHILRuJH/QzuAR7fXW8S
+      xksSLMeWTfzk9T2FCwm9C/94/3jxfqg3IaThnKswmuZWvJr2Y23/qIH3h4GXspD3
+      1lerzT83oBf10yrXhFfg+PvU5CMiGyNReP1dkyXXI++k1rWTEK2jI8q7pLlVuwS9
+      lPUvlXqrncCrwb3eiX6g+n/R7Nxatj4H1jmLpJMqNN31j0naykz4g3ydgbdt0/Xa
+      fXdAtl7vev7/q1YTempKsWBLuYItkC46nIznXzfSH3AC9pvRFmrUU3sXM0fB4uH3
+      mLAdNzQLBXwMYpJfcvjJSd6IIxydZlvsSzAtmN5+V6cDeS9jvzPrOaavlwuzUp66
+      Echz27SskDGe7k3i2sIL5NKYXip9LTpSyrnNtSGAKzDm4UXmpdG8srIL1iNXq2hZ
+      R9Rk2wicx5rjPEaKCTYAmYmRDPKQsu6fyhmAmY3HSy0rNZeT3c3YXwDMTse7RC6N
+      GwHMxj1xmbvMeXQbG3gCyOruEElDvbZmkZjspnDr9j9piWwkNaNu323Cj7c21R69
+      SGv335ObHISqYAZc3IpyigvSkQGBiGQjxxikhAOJRqOyz94jXBUz21QzNCv0Brv9
+      XV6YY5Hazo8nIz2XsKiDx/83OGSMISUZPLyg+4fcu2+u4En+7RMLVLa/tmUjh+IN
+      QpDMBi4EpxFh7+BHWbLIWJH8uZuCfOaqCJW0AiZbQEUbjRRQMS+IVi/FoObs7eEb
+      kOmsZ/9w8zay12HaJP+5Se7xcRI=
+      =sz1W
+      -----END PGP MESSAGE-----
+
 mysql:
   hostname: mysql.internal.puyonexus.com
   database: puyonexus
