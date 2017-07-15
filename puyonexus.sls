@@ -1,5 +1,8 @@
 #!yaml|gpg
 
+site:
+  root: https://puyonexus.com
+
 mysql:
   hostname: mysql.internal.puyonexus.com
   database: puyonexus
