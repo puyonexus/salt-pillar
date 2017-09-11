@@ -2,6 +2,7 @@
 
 site:
   root: https://puyonexus.com
+  www_root: https://www.puyonexus.com
 
 sentry:
   php:
