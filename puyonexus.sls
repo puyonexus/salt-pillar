@@ -34,7 +34,7 @@ sentry:
       -----END PGP MESSAGE-----
 
 mysql:
-  hostname: mysql.internal.puyonexus.com
+  hostname: localhost
   database: puyonexus
   username: puyonexus
   password: |
